@@ -1,0 +1,25 @@
+
+* {
+    margin:0;
+    padding: 0;
+    border:0;
+    } 
+    
+    body {
+    font-family: 'Roboto',sans-serif;
+    color: #707070;
+    }
+    
+    nav img  {
+    width: 1em;
+    padding:0%;
+    }
+    
+    
+    .subtitulo {
+        color:#212529;
+    }
+    
+footer img {
+width: 3em;
+}
